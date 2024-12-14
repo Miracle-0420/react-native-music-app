@@ -126,21 +126,6 @@ Users are able to:
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-<!-- CONTACT -->
-
-## Contact
-
-@lukaszkus
-<br/>
-LinkedIn: [https://www.linkedin.com/in/lukasz-kus](https://www.linkedin.com/in/lukasz-kus/)
-<br/>
-e-mail: lukasz.kus84@outlook.com
-
-## Links
-
-Project link: [https://github.com/lukaszkus/react-native-music-app](https://github.com/lukaszkus/react-native-music-app)
-<br/>
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
